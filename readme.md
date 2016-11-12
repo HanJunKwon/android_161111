@@ -17,24 +17,24 @@
       파일 위치로 이동
     </a>
     <hr>
-    <h1> 1. 실행 초기 화면 </h1>
-    <img src ="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951193.png?raw=true"
+    <h1> 3. 체크 박스 선택 시 </h1>
+    <img src ="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951348.png?raw=true"
     width=300 height=400><br>
-    <a href="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951193.png?raw=true">
+    <a href="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951348.png?raw=true">
       파일 위치로 이동
     </a>
     <hr>
-    <h1> 1. 실행 초기 화면 </h1>
-    <img src ="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951193.png?raw=true"
+    <h1> 4. 라디오 버튼(남자) 선택 </h1>
+    <img src ="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951351.png?raw=true"
     width=300 height=400><br>
-    <a href="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951193.png?raw=true">
+    <a href="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951351.png?raw=true">
       파일 위치로 이동
     </a>
     <hr>
-    <h1> 1. 실행 초기 화면 </h1>
-    <img src ="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951193.png?raw=true"
+    <h1> 5. 라디오 버튼(여자) 선택 </h1>
+    <img src ="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951359.png?raw=true"
     width=300 height=400><br>
-    <a href="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951193.png?raw=true">
+    <a href="https://github.com/HanJunKwon/android_161111/blob/master/app/src/main/resultCapture/Screenshot_1478951359.png?raw=true">
       파일 위치로 이동
     </a>
     <hr>
